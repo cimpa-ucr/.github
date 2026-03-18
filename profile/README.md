@@ -33,10 +33,8 @@ institutions across Latin America, Europe, and North America.
 
 | Group | Focus |
 |-------|-------|
-| **Analysis Group** | Functional analysis, operator theory, |
-| | and partial differential equations |
-| **EPIMEC** | Epidemiology and mathematical modeling |
-| | of infectious diseases |
+| **Analysis Group** | Functional analysis, operator theory, and partial differential equations |
+| **EPIMEC** | Epidemiology and mathematical modeling of infectious diseases |
 
 ## Links
 
